@@ -76,7 +76,7 @@ fun calculadoraGorjeta() {
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
 
         )
-        Spacer(modifier = Modifier.size(10.dp))
+        Spacer(modifier = Modifier.size(11.dp))
 
 
         TextField(
